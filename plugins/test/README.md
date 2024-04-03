@@ -21,7 +21,7 @@ The fake device is only for local testing and thus requires no vendor ID set.
 
 ## External Interface Access
 
-This plugin requires no extra access.
+This plugin requires no extra access test.
 
 ## Version Considerations
 
